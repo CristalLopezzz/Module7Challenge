@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "e6FXGWOOa8/gIk4xjL5CQeyp+DdQuH96ak6u/34JC2s=",
+  "Source": "Module7Challenge",
+  "BasePath": "_content/Module7Challenge",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Module7Challenge/wwwroot",
+      "Source": "Module7Challenge",
+      "ContentRoot": "/workspaces/Module7Challenge/Module7Challenge/wwwroot/",
+      "BasePath": "_content/Module7Challenge",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/workspaces/Module7Challenge/Module7Challenge/wwwroot/index.html",
+      "SourceId": "Module7Challenge",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/Module7Challenge/Module7Challenge/wwwroot/",
+      "BasePath": "_content/Module7Challenge",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/workspaces/Module7Challenge/Module7Challenge/wwwroot/styles.css",
+      "SourceId": "Module7Challenge",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/Module7Challenge/Module7Challenge/wwwroot/",
+      "BasePath": "_content/Module7Challenge",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    }
+  ]
+}
